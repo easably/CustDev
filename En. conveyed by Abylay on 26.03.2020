@@ -1,0 +1,46 @@
+26.03.2020
+The “EasyLang” project
+Bondarenko Andrey (UI-designer)
+General information about the user:
+The user is not familiar with Google Chrome extensions
+Reading is on a decent level
+
+To the management department:
+It’s not clear that the product is only for Chrome
+Too many of “Free Start” buttons
+It’s not clear where to go after installing of the Extension 
+The Extension seems to be a built-in module/addon
+After reading the instruction, certain things became comprehendible: “- For instance, I read something, don’t understand it, highlight it, click on the icon and then it gives me hints”
+A little confusion with the 3-options button
+The functions themselves are understandable. However, it’s not clear where the words get saved
+In the beginning, I didn’t notice the saving instruction
+“Roughly speaking, it’s like some sort of quiz”
+Another memorization method
+The tutor is not a necessary function
+The main user’s necessity is the contextual translation
+Some functions are inconsistent with the learning because they are too simple
+The color of the website reminds of such apps as Skype, Explorer, or Windows. In addition to the FAQ article, it creates an unnecessary and wrong association and makes you feel like it’s not what you were looking for
+
+To the designers:
+The font is too artistic. That makes the headers inconvenient to read
+It is not clear that the page is an instruction
+The link to the Tutor is not apparent
+The functions of the keyboard and opening words by syllables and letters are not apparent as well. Fortunately, the user understood everything by himself later
+The translation bulb seemed to be a convenient function
+Zero attention is given to the amount of right and wrong answers
+The keyboard and the highlighted key on it, without hints, were unclear
+I found the eye function handy
+The button “Add to my lesson” was missed by me
+The “Account” tab in the Tutor is absolutely confusing due to merging of the words and pictures in the tab
+“Buy premium” should be green, “Change password” should be red
+The subscription screen is relatively normal. No deeper feedback provided
+Maybe, the nametags should be compressed and placed closer to each other
+The “Eyes” move chaotically on the big screen. Probably, certain optimization problems occur there
+A font that is a little bit extended vertically would be more readable 
+
+To the programmers
+Synchronization doesn’t prevent “Log in”. I find it irrational
+The user figured out “why there are no saved words” almost immediately
+When the word was saved, the user didn’t understand why it’s still highlighted
+Wish there was an opportunity to understand whether the words are saved or not
+The antivirus situation is still bothering me
