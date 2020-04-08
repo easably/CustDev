@@ -1,0 +1,96 @@
+Custdev
+
+Site -> Chrome Web Store -> Extension -> Tutor
+Extension -> Tutor on mobile
+Site Tilda -> Player -> Tutor
+
+Feedback from Alesya (English level – intermediate, attends English classes, watches dialogues in English with subtitles, studied QA, not familiar with the extensions)
+
+Site
+The main page. If there’s a language switch, she switches to Russian. Skimmed the site, scroll till the end. She checked if it’s necessary to sign up. Usually frightened of registrations. Then she clicked on the “Start Learning” immediately, checks through the “Products” page, clicks on the “Add” button.
+Note: She hasn’t visited the Tutor page. In order to comprehend how it works, she had to come back to the “Extension” page.
+
+Chrome Web Store
+She watched the app page. Usually, her judgment is based on users’ feedback. 
+She hasn’t heard about TED. Finds the pictures understandable.
+
+Extension
+Usually signs up via Google.
+Opened up the link in the “history”. Said that “It is like a call to action!”. Explored the website/article very carefully. The first guess was that it is an educational page. Then asked what to do next. She didn’t understand how the extension works.
+Note: Came back to the website. Visited the “Products” page one more time.
+After reading –
+“To start you need to:
+Download the browser extension;
+Create an account in Tutor to work with the content you like”
+Said that she needs to sign up on Tutor because she registered only in extension.
+She moved to the “Extension” page to understand how to work with it.
+Highlighted a word in the article and saved it. Then she asks – “Where does it go?”. In the beginning, she didn’t notice the link to Web Tutor in the “Extension”.
+
+Tutor
+She didn’t understand how to move the next app. Takes the arrows on the keyboard as a décor. Says that they (the arrows) should be highlighted or/and should be located at the top (as it was before)
+She translated landing page as “страница загрузки”.
+
+Tutor on Mobile
+QR code usually doesn’t get read. She used it a couple of times. However, the link didn’t work a couple of times as well. This function is removed now.
+In the mobile version, the hotkeys on the keyboard are located too close to each other. It’s easy to miss-click on the right key.
+
+Site Tilda
+She didn’t notice that the (<-|->) buttons are clickable. Everything is quite clear even without them.
+Asked if there’s a slow-down function in the player.
+
+Player
+She’s not familiar with MKV movies format
+Also, she didn’t find how to slow-down a video. Wish there was quick access.
+Then she asked if it’s possible to highlight two subtitle files and download several subtitles simultaneously.
+Didn’t get where is the second subtitles download button and that it’s necessary to pick them out of the list to appear. Fortunately, it wasn’t a problem for Alesya. She was able to investigate it herself.
+After picking (by the mark) a few subtitles out of the list, didn’t get where to find them. She said that if the mark would’ve indicated an action, it drew her attention. Hence, she would’ve clicked on it.
+The presence of 2 gears doesn’t disturb.
+Entered one word in the “Search” blank and clicked on the searching glass icon. Didn’t notice that search had occurred during the entering. Said that she always clicks on Enter or Searching glass icon.
+Clicking on the scrollbar is not convenient. Indicated that it’s too thin.
+Besides, she said that due to the necessity of moving from the video browser and back, the 10 words-translation limit is inconvenient as well. Fortunately, it’s possible to make hidden Russian subtitles to have translation if necessary.
+
+
+
+Feedback from Olya (English level – intermediate, watches movies in English with subtitles, doesn’t use extensions)
+
+Site
+The main page. There’s too much white space on the main page. It seems like it hasn’t fully downloaded. Also, it’s not informative. Then she said it’s crucial to draw the user’s attention. Write about all our advantages. Scrolled till the end and clicked on “Start Learning”.
+After that clicks on the “Get started” button on the “Products” page immediately. The signing up page opened on Tutor. 
+Said that it would be better if there is no need to sign up to test the product (Indicated it twice).
+In addition, she expressed an opinion: “Browser extension confuses because it’s too complicated. Yes, it’s easy I know, but it has to be installed. On the other hand, there are plenty of apps that can be used without installation.” That’s why she passed the “Add” option.
+Then, she moved to the “Extensions” page. She did like it but indicated that there is too much space on the right. Indicated that texts are boring, while the extensions are more comprehendible. To start, wanted to try something of it out.
+
+Chrome Web Store
+Will an app overview in Russian come out? I have a concern that those who don’t know English will have a tough time trying to understand it.
+The pictures are quite clear.
+
+Extension
+Didn’t notice the “Sign up” button at the beginning.
+Immediately, opened up the link in the “history”.
+Highlighted and saved some words in the article. She asked: “Where did they go?”. Then, moved to the extension and clicked on the “history”. From her view, “the “history” is a recording of everything she had done before.” However, she came up with a question: “Where are the words then?”.
+Next, she clicked on Web Tutor.
+
+Tutor
+She had a hard time noticing “Open the original article”. Intended to open up the article in the browser herself.
+
+Tutor on mobile
+She didn’t know that her phone has a QR-code reader. Also, she hadn’t an idea how to use it because has never made use of it.
+
+Site Tilda
+The page 
+She didn’t notice that (<-|->) are clickable. Found them unnecessary due to the comprehensibility of the app.
+Said that the part – 
+“Use the keyboard for switching between sentences”
+- Play the previous material
+- Play the current material
+- Play the next material
+looks a little out of place.
+
+Player
+She wasn’t familiar with MKV-format files. 
+Also, she didn’t understand where to download the second subtitles.
+It’s not clear how to go to Tutor.
+Didn’t use the video slowdown function.
+Didn’t understand the purpose of marks. Highlighted them but didn’t get where to find them.
+Came up with a suggestion for Tutor – 
+“It would’ve been great if there were options where the words used by you were used as well.
