@@ -1,0 +1,58 @@
+31.03.2020
+EasyLang
+Logosh Ekaterina (19 y/o, linguist translator, QA)
+
+The user’s experience:
+The English level – B2, with the ability to read on the C1 and C2 levels (extremely high)
+Learns the language at home and the university (German, English)
+Reads in English, currently watching a TV-show in English
+Not familiar with extensions
+Downloads avi files via Torrent
+The user’s issues:
+Had been using numerous software. The complaint is that there’s no free content on the web (usually it’s a 3-day trial).
+Also, she complained about the necessity to take down every translation due to polysemy of English words and the necessity to copy/paste to Google Translate every time she reads an article.
+She watches the previously mentioned TV-show without subtitles. If she doesn’t make out a word, she rewinds. Due to this fact, she has complaints about the convenience of the process.
+She finds Duolingo basic, thinks that it doesn’t have a good soft for further usage.
+
+Landing
+At the beginning didn’t notice the “Blog”, “Read and Learn”, “Watch and Learn” tabs.
+She skimmed everything and paid attention to the “Free Start” buttons.
+Firstly, she picked the “Watch and Learn” and met the instruction. Overall, everything was understandable, but she wasn’t interested in the functionality of the tab.
+Using the instructions and hints of “Read and Learn”, she reached the Extension. Using the hints, she figured out how to use it.
+Despite the necessity of explaining, the crucial features of the functions were taken well by her.
+During the downloading, she, trying to go back to the Extension, clicked on the “Free Start” again. 
+
+The logical connection between Extension Store
+During the moving to the Extension Store, she liked the design of the page (to be precise, photos because there’s nothing else). However, due to incomplete understanding of the project, it wasn’t clear for her where the Extension was installed.
+The instruction on the website didn’t help.
+
+Extension
+As previously mentioned, despite a lack of understanding of the purpose, the main functions were received positively.
+No logical connection between “Add to Tutor” and the Tutor itself.
+A small bug took a place: when the user highlighted 5-6 lines of the texts (from the “Translate Selected Text” section), the popped-up window didn’t translate anything. The window had opened, but the text wasn’t copied.
+She came up with a question: “What if the user would like to cancel adding to the Tutor.
+The Tutor link is not noticeable. It looks like an auxiliary link.
+
+Tutor
+The symbols opening mechanics and the “bulb” are clear and approved.
+Wish there were a translation and/or definition of the word after clicking on the bulb.
+Overall, she has figured out with the letter-highlight function and received it positively.
+It wasn’t clear why each time a different number of keys is highlighted.
+The tester highly appreciated the second game. The purpose of the game was instinctively clear.
+The only downside is the default apps, which are not familiar to the user, doesn’t suit for tests.
+It’s confusing why each time a random word appears after clicking on the “Open Word”.
+The account page is confusing as well.
+
+Conclusion:
+To the management department:
+To describe the paid subscription and its functions. Also, it’s crucial to find a way to draw the users’ attention on it (it wasn’t clear what were the limits).
+To format the text in the Tutor, Extension, and Extension Store.
+
+To the programmers:
+To fix the Extension (as I understood, it’s already in process and waiting for the release)
+To rework the default apps in the Tutor in order to make them look like a demo (in cooperation with the management department).
+To suggest a solution to the logic inconsistency problem of the Extension downloading and adding to the Tutor (as far as I know, it’s already been discussed with Siarhei).
+
+To the designers:
+Rework the top part of the “Watch and Learn” and “Read and Learn” sections on the Landing for the user doesn’t notice the instruction immediately.
+Probably, you have to change the Demo-pictures on the “Read and Learn” for the user doesn’t pay enough attention to them (Before that, discuss it with Siarhei).
